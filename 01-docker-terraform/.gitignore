@@ -1,0 +1,20 @@
+# Development Environment
+.devcontainer/
+.ipynb_checkpoints/
+
+# Data Files
+data/
+
+# Python Compiled Files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+*.ipynb_checkpoints
+
+# Logs 
+*.log
+
+# Virtual Environment (if applicable)
+venv/
+.env
