@@ -1,0 +1,11 @@
+# git ignore all .devcontainer files in both current and sub directories
+**/.devcontainer/*
+
+# git ignore all .vscode files in both current and sub directories
+**/.vscode/*
+
+# git ignore all .dockerignore files in both current and sub directories
+**/.dockerignore
+
+# git ignore all .dockerignore files in both current and sub directories
+**/.dockerignore
